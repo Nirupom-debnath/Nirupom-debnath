@@ -2,7 +2,7 @@
 
 ### Cybersecurity Investigator | DFIR • SOC • Malware Analysis • Threat Intelligence
 
-*Bachelor's in Software Engineering (Major in  Cyber Security) @ Daffodil International University*
+*Bachelor's in Software Engineering | Major in Cyber Security @ Daffodil International University*
 
 📍 Dhaka, BD
 
